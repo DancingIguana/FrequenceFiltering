@@ -18,7 +18,7 @@ def butterworth(distance:float,radius:float,n:int) -> float:
     return 1 / (1+ (radius/distance)**n)
 
 
-def get_Fuv_from_gray_image(gray_img:np.array) -> tuple[np.array, np.array]:
+def get_Fuv_from_gray_image(gray_img:np.array) -> tuple:
     """
     Given a gray image, get the discrete Fourier Transform of the image,
     and also return the normalized Fourier Transform image for visualization

@@ -2,7 +2,7 @@ import cv2
 import os
 import numpy as np
 
-def load_image_gray(filename: string) -> np.array:
+def load_image_gray(filename: str) -> np.array:
     """
     Given a filename, load the image in grayscale with cv2 and make sure
     that its width and height are even.
