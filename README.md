@@ -29,6 +29,7 @@ pip install -r requirements.txt
 python3 app.py
 ```
 
+4. If you want to run one of the examples, load one of the noisy images and its corresponding circles.json file. Afterwards clicks on the 'Apply Filter' button. This will allow you to replicate one of the examples.
 
 ## Demo
 See how the app works by checking out this video:
