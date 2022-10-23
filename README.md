@@ -31,4 +31,7 @@ python3 app.py
 
 
 ## Demo
-See how the app works by checking out this video: https://www.youtube.com/watch?v=htb2H29Q5jo&t=4s
+See how the app works by checking out this video:
+
+[![Watch the video](https://img.youtube.com/vi/htb2H29Q5jo/maxresdefault.jpg)](https://www.youtube.com/watch?v=htb2H29Q5jo&t=4s)
+
